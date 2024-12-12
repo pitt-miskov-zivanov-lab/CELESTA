@@ -1,0 +1,64 @@
+location
+Cell Membrane	39
+Cell Nucleus	27
+Cytoplasm	29
+Extracellular Matrix	6
+Extracellular Space	2
+total-lb	103
+total-ulb	1719
+
+cell_line
+293 cell	41
+A549 cell	51
+COS-1 cell	7
+HeLa cell	36
+Hep G2 cell	32
+LNCAP cell	24
+MCF7 cell	43
+NIH-3T3 cell	38
+THP-1 cell	33
+U-937 cell	32
+total-lb	337
+total-ulb	1485
+
+cell_type
+T cell	59
+cardiac muscle cell	51
+endothelial cell	176
+fat cell	92
+fibroblast	133
+hepatocyte	53
+macrophage	121
+monocyte	60
+neuron	37
+smooth muscle cell	71
+total-lb	853
+total-ulb	969
+
+organ
+adipose tissue	26
+aorta	50
+blood vessel smooth muscle	54
+cardiovascular system	85
+cardiovascular system endothelium	43
+endothelium	65
+heart	61
+liver	109
+lung	199
+skeletal muscle tissue	94
+total-lb	786
+total-ulb	1036
+
+disease
+atherosclerosis	64
+breast cancer	8
+leukemia	14
+lung cancer	33
+melanoma	4
+multiple myeloma	23
+neuroblastoma	7
+non-small cell lung carcinoma	14
+osteosarcoma	1
+total-lb	168
+total-ulb	1654
+
