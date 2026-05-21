@@ -25,7 +25,7 @@ After training, use our evaluation script (e.g., `semi_evaluation.py`) to assess
 
 ## Citation
 
-Difei Tang, Thomas Yu Chow Tam, Haomiao Luo, Cheryl A. Telmer, Natasa Miskov-Zivanov, “An Open-Set Semi-Supervised Multi-Task Learning Framework for Context Classification in Biomedical Texts”, bioRxiv preprint, doi: https://doi.org/10.1101/2024.07.22.604491.
+Difei Tang, Thomas Yu Chow Tam, Haomiao Luo, Cheryl A. Telmer, Natasa Miskov-Zivanov, “An Open-Set Semi-Supervised Multi-Task Learning Framework for Context Classification in Biomedical Texts”, Journal of Biomedical Informatics, doi: https://doi.org/10.1016/j.jbi.2025.104886
 
 ## Funding
 
